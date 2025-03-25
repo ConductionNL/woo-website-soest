@@ -8,6 +8,7 @@ Wil je meer weten over deze oplossing? We hebben een speciaal Slack kanaal binne
 Voor het opzetten van de Woo-container en image kun je de laatste versie van het image vinden hier.
 
 Stap 1: Image downloaden
+
 Download het laatste image met:
 
 `docker pull ghcr.io/conductionnl/woo-website-v2:latest`
