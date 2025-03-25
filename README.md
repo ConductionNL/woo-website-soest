@@ -1,4 +1,4 @@
-# Over Woo en OpenWoo.app
+# Over Woo & OpenWoo.app
 
 Ondersteuning en bijeenkomsten
 
