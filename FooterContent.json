@@ -39,27 +39,27 @@
     "items": [
       {
         "ariaLabel": "X",
-        "value": "@gemeentesoest",
+        "value": "X",
         "link": "https://x.com/gemeentesoest"
       },
       {
         "ariaLabel": "Facebook",
-        "value": "/gemeentesoest",
+        "value": "Facebook",
         "link": "https://www.facebook.com/gemeentesoest"
       },
       {
         "ariaLabel": "LinkedIn",
-        "value": "gemeente-soest",
+        "value": "LinkedIn",
         "link": "https://www.linkedin.com/company/gemeente-soest"
       },
       {
         "ariaLabel": "YouTube",
-        "value": "GemeenteSoest",
+        "value": "YouTube",
         "link": "https://www.youtube.com/@GemeenteSoest"
       },
       {
         "ariaLabel": "Instagram",
-        "value": "gemeente_soest",
+        "value": "Instagram",
         "link": "https://www.instagram.com/gemeente_soest/"
       }
     ]
