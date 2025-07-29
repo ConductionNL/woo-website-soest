@@ -1,11 +1,80 @@
 [
   {
-    "title": "Algemeen",
+    "title": "Menu",
     "items": [
       {
+        "ariaLabel": "Contact",
+        "value": "Contact",
+        "link": "https://www.soest.nl/contact"
+      },
+      {
+        "ariaLabel": "Openingstijden",
+        "value": "Openingstijden",
+        "link": "https://www.soest.nl/openingstijden"
+      },
+      {
         "ariaLabel": "Website",
-        "value": "www.soest.nl"
+        "value": "website",
+        "link": "https://www.soest.nl"
+      },
+      {
+        "ariaLabel": "Vacatures",
+        "value": "Vacatures",
+        "link": "https://www.soest.nl/vacatures"
+      },
+      {
+        "ariaLabel": "Translate",
+        "value": "Translate",
+        "link": "https://www.soest.nl/translate"
+      },
+      {
+        "ariaLabel": "Afspraak maken",
+        "value": "Afspraak maken",
+        "link": "https://afspraak.soest.nl/"
       }
-    ]  
+    ]
+  },
+  {
+    "title": "Volg ons op",
+    "items": [
+      {
+        "ariaLabel": "X",
+        "value": "@gemeentesoest",
+        "link": "https://x.com/gemeentesoest"
+      },
+      {
+        "ariaLabel": "Facebook",
+        "value": "/gemeentesoest",
+        "link": "https://www.facebook.com/gemeentesoest"
+      },
+      {
+        "ariaLabel": "LinkedIn",
+        "value": "gemeente-soest",
+        "link": "https://www.linkedin.com/company/gemeente-soest"
+      },
+      {
+        "ariaLabel": "YouTube",
+        "value": "GemeenteSoest",
+        "link": "https://www.youtube.com/@GemeenteSoest"
+      },
+      {
+        "ariaLabel": "Instagram",
+        "value": "gemeente_soest",
+        "link": "https://www.instagram.com/gemeente_soest/"
+      }
+    ]
+  },
+  {
+    "title": "Adres",
+    "items": [
+      {
+        "ariaLabel": "Bezoekadres",
+        "value": "Raadhuisplein 1, 3762 AV Soest"
+      },
+      {
+        "ariaLabel": "Postadres",
+        "value": "Postbus 2000, 3760 CA Soest"
+      }
+    ]
   }
 ]
